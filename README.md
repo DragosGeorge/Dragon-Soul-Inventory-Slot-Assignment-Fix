@@ -5,3 +5,9 @@ This project involves a code modification in the game to improve the handling of
 ## Change Summary
 
 The original code was modified to ensure that Dragon Soul items are correctly assigned to an available slot within the Dragon Soul Inventory. This fix enhances the inventory management system by accurately placing these items where they belong.
+
+**Before:**
+![Before GIF](https://imgur.com/EPvEFYH)
+
+**After:**
+![After GIF](https://imgur.com/GJje88n)
