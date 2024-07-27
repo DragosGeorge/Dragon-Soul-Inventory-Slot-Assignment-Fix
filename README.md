@@ -11,3 +11,7 @@ The original code was modified to ensure that Dragon Soul items are correctly as
 
 **After:**
 ![After GIF](gif/after.gif)
+
+##Purpose of the Fix
+
+The modification ensures that Dragon Soul items are added to the correct inventory slot rather than a generic destination cell. This prevents inventory management issues and improves the gameplay experience by properly organizing Dragon Soul items.
